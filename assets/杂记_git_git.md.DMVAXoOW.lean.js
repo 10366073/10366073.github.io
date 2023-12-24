@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as o,R as a}from"./chunks/framework.4iRWb_64.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"杂记/git/git.md","filePath":"杂记/git/git.md"}'),i={name:"杂记/git/git.md"},c=a("",23),r=[c];function d(n,h,m,s,p,l){return e(),o("div",null,r)}const k=t(i,[["render",d]]);export{u as __pageData,k as default};

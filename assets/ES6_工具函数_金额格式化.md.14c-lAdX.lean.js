@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,R as h}from"./chunks/framework.4iRWb_64.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ES6/工具函数/金额格式化.md","filePath":"ES6/工具函数/金额格式化.md"}'),k={name:"ES6/工具函数/金额格式化.md"},n=h("",3),l=[n];function p(t,E,e,r,d,F){return i(),a("div",null,l)}const C=s(k,[["render",p]]);export{y as __pageData,C as default};

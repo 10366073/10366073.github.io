@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,R as h}from"./chunks/framework.4iRWb_64.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ES6/工具函数/递归.md","filePath":"ES6/工具函数/递归.md"}'),n={name:"ES6/工具函数/递归.md"},l=h("",4),k=[l];function t(p,e,E,d,r,g){return i(),a("div",null,k)}const F=s(n,[["render",t]]);export{c as __pageData,F as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,R as n}from"./chunks/framework.4iRWb_64.js";const o=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ES6/工具函数/函数柯里化.md","filePath":"ES6/工具函数/函数柯里化.md"}'),l={name:"ES6/工具函数/函数柯里化.md"},h=n("",2),t=[h];function k(p,e,r,E,d,g){return i(),a("div",null,t)}const c=s(l,[["render",k]]);export{o as __pageData,c as default};

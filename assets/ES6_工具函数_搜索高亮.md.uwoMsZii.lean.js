@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,R as t}from"./chunks/framework.4iRWb_64.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ES6/工具函数/搜索高亮.md","filePath":"ES6/工具函数/搜索高亮.md"}'),h={name:"ES6/工具函数/搜索高亮.md"},n=t("",4),l=[n];function k(p,e,E,r,d,g){return i(),a("div",null,l)}const o=s(h,[["render",k]]);export{c as __pageData,o as default};

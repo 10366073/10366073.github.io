@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,R as n}from"./chunks/framework.4iRWb_64.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ES6/工具函数/全屏.md","filePath":"ES6/工具函数/全屏.md"}'),l={name:"ES6/工具函数/全屏.md"},e=n("",3),h=[e];function p(t,k,E,r,d,c){return i(),a("div",null,h)}const o=s(l,[["render",p]]);export{y as __pageData,o as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as r,c as a,R as l}from"./chunks/framework.4iRWb_64.js";const n=JSON.parse('{"title":"更新日志 (2023-12-21)","description":"","frontmatter":{},"headers":[],"relativePath":"关于/更新日志.md","filePath":"关于/更新日志.md"}'),t={name:"关于/更新日志.md"},b=l("",3),s=[b];function o(c,f,i,h,g,m){return r(),a("div",null,s)}const u=e(t,[["render",o]]);export{n as __pageData,u as default};

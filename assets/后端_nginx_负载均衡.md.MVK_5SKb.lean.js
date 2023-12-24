@@ -1,0 +1,1 @@
+import{_ as e,o as n,c as t,R as r}from"./chunks/framework.4iRWb_64.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"后端/nginx/负载均衡.md","filePath":"后端/nginx/负载均衡.md"}'),s={name:"后端/nginx/负载均衡.md"},a=r("",6),i=[a];function o(_,l,c,p,d,h){return n(),t("div",null,i)}const x=e(s,[["render",o]]);export{u as __pageData,x as default};

@@ -1,0 +1,1 @@
+import{_ as n,o as s,c as a,R as p}from"./chunks/framework.4iRWb_64.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"后端/nginx/访问频率.md","filePath":"后端/nginx/访问频率.md"}'),e={name:"后端/nginx/访问频率.md"},i=p("",10),l=[i];function t(o,c,r,d,_,m){return s(),a("div",null,l)}const g=n(e,[["render",t]]);export{u as __pageData,g as default};

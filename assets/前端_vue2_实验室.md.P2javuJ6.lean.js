@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,R as r}from"./chunks/framework.4iRWb_64.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"前端/vue2/实验室.md","filePath":"前端/vue2/实验室.md"}'),o={name:"前端/vue2/实验室.md"},i=r("",6),s=[i];function l(n,c,_,h,u,d){return t(),a("div",null,s)}const v=e(o,[["render",l]]);export{p as __pageData,v as default};

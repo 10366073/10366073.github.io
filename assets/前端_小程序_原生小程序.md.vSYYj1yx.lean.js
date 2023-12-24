@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,R as t}from"./chunks/framework.4iRWb_64.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"前端/小程序/原生小程序.md","filePath":"前端/小程序/原生小程序.md"}'),e={name:"前端/小程序/原生小程序.md"},h=t("",8),n=[h];function p(l,k,r,E,d,o){return i(),a("div",null,n)}const u=s(e,[["render",p]]);export{g as __pageData,u as default};

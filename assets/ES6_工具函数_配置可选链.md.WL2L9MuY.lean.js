@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,R as n}from"./chunks/framework.4iRWb_64.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ES6/工具函数/配置可选链.md","filePath":"ES6/工具函数/配置可选链.md"}'),h={name:"ES6/工具函数/配置可选链.md"},t=n("",10),l=[t];function p(k,e,E,r,d,g){return i(),a("div",null,l)}const y=s(h,[["render",p]]);export{c as __pageData,y as default};

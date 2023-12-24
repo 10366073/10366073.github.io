@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,R as r}from"./chunks/framework.4iRWb_64.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"杂记/插件/插件.md","filePath":"杂记/插件/插件.md"}'),o={name:"杂记/插件/插件.md"},s=r("",3),_=[s];function c(i,n,l,h,d,p){return a(),t("div",null,_)}const u=e(o,[["render",c]]);export{f as __pageData,u as default};

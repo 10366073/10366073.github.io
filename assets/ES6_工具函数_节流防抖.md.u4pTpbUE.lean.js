@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,R as n}from"./chunks/framework.4iRWb_64.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ES6/工具函数/节流防抖.md","filePath":"ES6/工具函数/节流防抖.md"}'),h={name:"ES6/工具函数/节流防抖.md"},l=n("",8),k=[l];function p(t,e,E,r,d,g){return i(),a("div",null,k)}const F=s(h,[["render",p]]);export{c as __pageData,F as default};

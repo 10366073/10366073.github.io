@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,R as n}from"./chunks/framework.4iRWb_64.js";const y=JSON.parse('{"title":"JavaScript ES6 模块化","description":"","frontmatter":{},"headers":[],"relativePath":"ES6/模块化.md","filePath":"ES6/模块化.md"}'),h={name:"ES6/模块化.md"},t=n("",15),p=[t];function l(k,e,r,d,o,E){return i(),a("div",null,p)}const F=s(h,[["render",l]]);export{y as __pageData,F as default};
